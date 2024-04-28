@@ -1,0 +1,122 @@
+.nav-item{
+    color: black !important;
+}
+.nav-link{
+    padding-left: 100px !important;
+}
+.container{
+    display: flex;
+    padding: 30px;
+}
+.shop{
+    word-spacing: 20px;
+    padding: 60px;
+    font-weight: 60px;
+}
+#heading1{
+    color:yellow ;
+    font-size: 50px;
+}
+#heading2{
+    padding: 20px;
+    font-size: 50px;
+}
+.shop,p{
+    padding-top: 40px;
+}
+#para{
+    font-size: 20px;
+}
+.button{
+    text-align: center;
+    padding-left: 700px;
+}
+.carroat{ 
+    padding-top: 80px;
+    text-align: center;
+}
+.button2{
+    text-align: center;
+}
+.veg{
+    padding-top: 80px;
+    text-align: center;
+}
+.pic{
+    display: flex;
+    justify-content: space-around; 
+    padding-top: 40px;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    border: dotted black !important;
+    width: 200px !important;
+    height: 430px !important;
+    padding: 40px;
+}
+.yellow{
+     color:rgb(238, 238, 13) !important;
+
+}
+.readmore{
+    padding-top: 60px;
+    text-align: center;
+}
+
+.img-1{
+    padding-left: 20px !important;
+   width: 120px !important ; 
+   height: 90px !important;
+}
+.thirddiv{
+    margin-top: 80px;
+    background-color: rgb(220, 208, 208);
+}
+.carroat{
+    text-align: center;
+}
+.images{ 
+    padding-top: 60px;
+    text-align: center;
+}
+.client{
+    
+    padding-left: 400px;
+    display:flex;
+}
+#para2{
+    padding-top: 50px;
+    padding-right: 200px;
+}
+.pargrphy{
+    padding: 80px;
+    text-align: center;
+}
+.f5{
+    background-color: aliceblue;
+}
+.fivediv{
+    padding: 20px;
+    justify-content: space-around;
+    margin: 20px;
+    display: flex;
+}
+.sixdiv{
+    display: flex;
+    padding: 50px;
+    background-color: rgb(52, 43, 43);
+    color: white;
+    justify-content: space-around;
+}
+@media screen and (max-width:650px){
+    .container{
+        flex-wrap: wrap;
+    }
+    .button{
+        
+    }
+} 
+
